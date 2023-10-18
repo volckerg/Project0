@@ -1,0 +1,21 @@
+.box1 { background-color:black;
+    width: 600px;
+    height: 300px;
+}
+.box2 {background-color: rebeccapurple;
+    width: 400px;
+    height: 250px;
+
+}
+
+.box3 {
+    background-color: darkred;
+    width: 100px;
+    height: 300px;
+}
+
+.box4 { background-color:yellow;
+    width: 300px;
+    height: 100px;
+
+}
